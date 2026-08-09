@@ -58,7 +58,8 @@ Result: **51,290 → 51,280 rows**, with full referential and geographic integri
 KPI summary (Sales, Profit, Margin, Orders, Avg Discount), interactive world map by country, year-over-year trend, category and market breakdown, and market growth comparison (2011 → 2014).
 
 ### Page 2 — Profitability & Risk Analysis
-![Profitability & Risk Analysis page](images/dashboard_page_2.png)
+
+<img src="dashboard_page_2.png" alt="Profitability & Risk Analysis page" width="600">
 
 Profit by sub-category (isolating the one structurally unprofitable line), shipping mode cost/profit breakdown, top loss-making countries, top customers by profit, and a discount-vs-profit scatter analysis — with interactive Segment and Discount-range slicers.
 
