@@ -60,7 +60,7 @@ Sales with no discount almost never lose money. But once a discount goes above 3
 ### 2. Technology is the profit engine — Furniture is not
 Technology drives **37.5% of sales but 45.2% of profit** — it converts revenue into profit better than any other category. Furniture sells almost as much as Technology (with nearly the same number of orders) but earns only **about half the profit per dollar sold**.
 
-<img src="Task_1/Exploratory_Data_Analysi/images/profit_by_category.png" alt="Profit by Category" width="600">
+<img src="profit_by_category.png.png" alt="Profit by Category" width="600">
 
 ### 3. One product line is quietly losing money: Tables
 Across all 17 product lines, **Tables is the only one that loses money overall** — a $64,083 loss on $757,034 in sales. Every other product line, even small ones, is profitable.
