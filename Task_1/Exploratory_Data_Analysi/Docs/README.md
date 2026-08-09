@@ -56,7 +56,7 @@ Turn raw transactional data into a decision-ready business report by:
 ### 1. Discounting above 30% is close to a guaranteed loss
 Sales with no discount almost never lose money. But once a discount goes above 30%, **9 out of 10 of those sales lose money** for the business. Overall, **1 in 4 transactions in the entire dataset is unprofitable** — and discounting is the clearest reason why.
 
-<img src="Task_1/Exploratory_Data_Analysi/image/discount_vs_profit.png" alt="Discount vs Profit scatter plot" width="600">
+<img src="codealpha_tasks/Task_1/Exploratory_Data_Analysi/image/discount_vs_profit.png" alt="Discount vs Profit scatter plot" width="600">
 
 ### 2. Technology is the profit engine — Furniture is not
 Technology drives **37.5% of sales but 45.2% of profit** — it converts revenue into profit better than any other category. Furniture sells almost as much as Technology (with nearly the same number of orders) but earns only **about half the profit per dollar sold**.
