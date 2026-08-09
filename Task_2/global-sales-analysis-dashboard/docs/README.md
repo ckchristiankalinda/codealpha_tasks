@@ -57,6 +57,8 @@ Result: **51,290 → 51,280 rows**, with full referential and geographic integri
 ### Page 1 — Global Sales Overview
 KPI summary (Sales, Profit, Margin, Orders, Avg Discount), interactive world map by country, year-over-year trend, category and market breakdown, and market growth comparison (2011 → 2014).
 
+<img src="dashboard_page_1.png" alt=" Global Sales Overview" >
+
 ### Page 2 — Profitability & Risk Analysis
 
 <img src="dashboard_page_2.png" alt="Profitability & Risk Analysis page" >
