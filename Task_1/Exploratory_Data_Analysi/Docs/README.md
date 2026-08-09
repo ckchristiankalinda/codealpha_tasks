@@ -56,32 +56,32 @@ Turn raw transactional data into a decision-ready business report by:
 ### 1. Discounting above 30% is close to a guaranteed loss
 Sales with no discount almost never lose money. But once a discount goes above 30%, **9 out of 10 of those sales lose money** for the business. Overall, **1 in 4 transactions in the entire dataset is unprofitable** — and discounting is the clearest reason why.
 
-<img src="images/discount_vs_profit.png" alt="Discount vs Profit scatter plot" width="600">
+<img src="Exploratory_Data_Analysi/images/discount_vs_profit.png" alt="Discount vs Profit scatter plot" width="600">
 
 ### 2. Technology is the profit engine — Furniture is not
 Technology drives **37.5% of sales but 45.2% of profit** — it converts revenue into profit better than any other category. Furniture sells almost as much as Technology (with nearly the same number of orders) but earns only **about half the profit per dollar sold**.
 
-<img src="images/profit_by_category.png" alt="Profit by Category" width="600">
+<img src="Exploratory_Data_Analysi/images/profit_by_category.png" alt="Profit by Category" width="600">
 
 ### 3. One product line is quietly losing money: Tables
 Across all 17 product lines, **Tables is the only one that loses money overall** — a $64,083 loss on $757,034 in sales. Every other product line, even small ones, is profitable.
 
-<img src="images/sales_vs_profit_by_subcategory.png" alt="Sales vs Profit by Sub-Category" width="600">
+<img src="Exploratory_Data_Analysi/images/sales_vs_profit_by_subcategory.png" alt="Sales vs Profit by Sub-Category" width="600">
 
 ### 4. Revenue is geographically concentrated
 Just **10 countries (out of 147) generate almost two-thirds of all sales**, led by the United States at 18% of global revenue. Selling a lot doesn't always mean earning a lot either — China and India convert sales into profit more efficiently than the higher-selling Australia.
 
-<img src="images/top10_countries_by_sales.png" alt="Top 10 Countries by Sales" width="600">
+<img src="Exploratory_Data_Analysi/images/top10_countries_by_sales.png" alt="Top 10 Countries by Sales" width="600">
 
 ### 5. Sales follow a reliable, repeatable yearly pattern
 Every single year in the data shows the same rhythm: **February is always the slowest month**, and **November–December are always the busiest**. Combined with steady year-over-year growth (sales nearly doubled from 2011 to 2014), this is a pattern the business can plan around with confidence.
 
-<img src="images/monthly_sales_trend.png" alt="Monthly Sales Trend" width="600">
+<img src="Exploratory_Data_Analysi/images/monthly_sales_trend.png" alt="Monthly Sales Trend" width="600">
 
 ### 6. What actually connects to profit
 Looking at how all the key numbers relate to each other, discount is the factor most closely tied to lower profit — more so than order size, quantity, or even how much time has passed. This confirms discount control as the single highest-leverage lever available to improve profitability.
 
-<img src="images/correlation_heatmap.png" alt="Correlation Heatmap" width="600">
+<img src="Exploratory_Data_Analysi/images/correlation_heatmap.png" alt="Correlation Heatmap" width="600">
 
 *(The full notebook contains 25+ additional business-annotated visualizations covering customers, segments, products, regions, and delivery performance.)*
 
