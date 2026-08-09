@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Cleaning-150458?style=flat&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
+
 
 A 3-page Power BI dashboard analyzing global retail performance across 7 markets and 4 years, built on the Global Superstore dataset (51,290 transactions, 2011–2014). The project combines a full data quality audit, DAX-driven KPIs, and a business-ready storytelling layer to answer one question: **where is the business winning, and where is it quietly losing money?**
 
@@ -29,9 +29,7 @@ global-sales-analysis-dashboard/
 ├── scripts/
 │   └── clean_superstore.py                   # Reproducible Python cleaning pipeline
 ├── images/
-│   ├── dashboard_page2_early.png             # Work-in-progress build
-│   └── dashboard_page2_final.png             # Final Profitability & Risk Analysis page
-└── LICENSE
+  
 ```
 
 > **Note:** the raw source file is not included in this repository to keep it lightweight. The full cleaning pipeline (`scripts/clean_superstore.py`) is fully reproducible against the original Global Superstore CSV.
@@ -106,11 +104,9 @@ Full recommendations are detailed on the dashboard's **Key Observations & Recomm
 
 ## 👤 Author
 
-**CK (Mutia Kalinda Christian)** — Data Analyst in training, Digital Regenesys (Data Science with AI)
+**CK (Mutia Kalinda Christian)** — Data Analyst
 Based in Kampala, Uganda | Portfolio project
 
 ---
 
-## 📄 License
 
-This project is released under the MIT License. The Global Superstore dataset is a publicly available sample dataset commonly used for BI training purposes.
