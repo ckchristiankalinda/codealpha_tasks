@@ -59,7 +59,7 @@ KPI summary (Sales, Profit, Margin, Orders, Avg Discount), interactive world map
 
 ### Page 2 — Profitability & Risk Analysis
 
-<img src="dashboard_page_2.png" alt="Profitability & Risk Analysis page" width="600">
+<img src="dashboard_page_2.png" alt="Profitability & Risk Analysis page" >
 
 Profit by sub-category (isolating the one structurally unprofitable line), shipping mode cost/profit breakdown, top loss-making countries, top customers by profit, and a discount-vs-profit scatter analysis — with interactive Segment and Discount-range slicers.
 
